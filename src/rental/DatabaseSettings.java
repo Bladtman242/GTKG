@@ -8,6 +8,6 @@ package rental;
 public class DatabaseSettings {
 	protected final static String dbHost = "mysql2.gigahost.dk";
 	protected final static String dbUser = "ejsing";
-	protected final static String dbPass = "";
+	protected final static String dbPass = "dsdsa";
 	protected final static String dbName = "ejsing_project1";
 }
