@@ -1,4 +1,4 @@
 .gitignore
 src/rental/DatabaseSettings.java
 bin/rental/DatabaseSettings.class
-bin/.DS_STORE
+*DS_STORE
