@@ -3,7 +3,7 @@ package rental;
 import java.sql.*;
 
 /**
- * @author Michael Storgaard
+ * @author Linnéa Frisenette Rechter, Sigurt Bladt Dinesen, Michael Mungkol Storgaard
  * @version 2011-11-17
  *
  */
