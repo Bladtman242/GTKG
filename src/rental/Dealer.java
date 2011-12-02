@@ -1,9 +1,9 @@
 package rental;
 
 import java.sql.*;
-
+//Testing merges remote
 /**
- * @author LinnŽa Frisenette Rechter, Sigurt Bladt Dinesen, Michael Mungkol Storgaard
+ * @author Linnï¿½a Frisenette Rechter, Sigurt Bladt Dinesen, Michael Mungkol Storgaard
  * @version 2011-11-17
  *
  */
